@@ -1,6 +1,6 @@
 ---Mobil Uygulama Arayüzündeki Componentlerin Tespiti---
 
-Bu projede herhangi bir mobil uygulamaya ait arayüzdeki komponentlerin tespit edilmesi amaçlanmıştır. Proje ileride otomatik test senaryoları oluşturmak adına bir ön adımdır.
+Bu projede herhangi bir mobil uygulamaya ait arayüzdeki Componentlerin tespit edilmesi amaçlanmıştır. Proje ileride otomatik test senaryoları oluşturmak adına bir ön adımdır.
 
 Komponentlerin tespiti 2 bölümden oluşur:
 
